@@ -45,7 +45,7 @@
     </Reference>
     <Reference Include="Assembly-CSharp-Publicized, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\dependancies\assembly-csharp\Assembly-CSharp-Publicized.dll</HintPath>
+      <HintPath>..\..\..\dependancies\Dev\Assembly-CSharp-Publicized.dll</HintPath>
     </Reference>
     <Reference Include="CommandSystem.Core, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\EXILED-OFFICIAL.8.12.2\lib\net48\CommandSystem.Core.dll</HintPath>

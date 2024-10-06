@@ -3,6 +3,7 @@ using Exiled.API.Features;
 using Exiled.Events.Handlers;
 using OMNI_FUCK_STAMINA.EventHandlers;
 using Player = Exiled.Events.Handlers.Player;
+using MEC;
 
 namespace OMNI_FUCK_STAMINA
 {
@@ -17,7 +18,7 @@ namespace OMNI_FUCK_STAMINA
 
         public override string Prefix => "omni-fuckjumping";
 
-        public override Version Version => new(1, 0, 0);
+        public override Version Version => new(1, 0, 1);
         PluginEventHandler EventHandler;
         public override void OnEnabled()
         {
