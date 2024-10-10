@@ -1,9 +1,7 @@
 ﻿using System;
 using Exiled.API.Features;
-using Exiled.Events.Handlers;
 using OMNI_FUCK_STAMINA.EventHandlers;
 using Player = Exiled.Events.Handlers.Player;
-using MEC;
 
 namespace OMNI_FUCK_STAMINA
 {

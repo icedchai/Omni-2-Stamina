@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel;
 using Exiled.API.Interfaces;
 
 
-namespace OMNI_FUCK_STAMINA 
+namespace OMNI_FUCK_STAMINA
 {
     public class Config : IConfig
     {
